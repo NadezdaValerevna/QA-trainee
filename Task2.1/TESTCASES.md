@@ -6,6 +6,8 @@ TestAdGet            | Тестирование получения объявл�
 TestAdGetForSellerID | Тестирование получения по sellerID     | 6 тестов (2 позитивных + 4 негативных)
 TestAdGetStatistics  | Тестирование статистики объявлений     | 5 тестов (3 позитивных + 2 негативных)
 
+В процессе решения было выявлено 6 ошибок
+<img width="1816" height="721" alt="image" src="https://github.com/user-attachments/assets/d0ef4e43-d767-443b-8524-97a08b14def5" />
 
 
  
